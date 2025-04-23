@@ -10,7 +10,7 @@ My educational background and continuous learning in cutting-edge technologies h
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 📫 How to reach me *[srushtijiyani2013@gmail.com](srushtijiyani2013@gmail.com)*
+- 📫 How to reach me *[jiy987sru@gmail.com](jiy987sru@gmail.com)*
 
 <h2 align="left">Skillset</h2>
 
