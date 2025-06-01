@@ -2,8 +2,6 @@
 
 <h5 align="center">As an aspiring IT Professional with a Bachelor's degree in IT Engineering, I've further enriched my knowledge through Postgraduate studies in Computer Applications Development and Cloud Computing. My passion lies in coding, problem-solving, and the endless possibilities technology offers. I'm eager to apply my skills in designing and implementing efficient software solutions and cloud architectures. I'm always open to new challenges and collaborations in the tech space.
 
-When I'm not immersed in tech, I find joy in exploring different cafes, restaurants, and the great outdoors. I seek out new natural landscapes and enjoy the beauty of nature. These experiences often inspire creative solutions and fresh perspectives that I bring back to my work in IT.
-
 My educational background and continuous learning in cutting-edge technologies have prepared me well for a career in IT. I'm excited to contribute my skills and enthusiasm to innovative projects and teams in the tech industry.</h5><br>
 
 <h2 align="left">Some Facts About Me</h2>
