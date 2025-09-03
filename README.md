@@ -44,8 +44,6 @@ My educational background and continuous learning in cutting-edge technologies h
 
 <br><hr><br>
 
-<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srush98&" />
-
 <h2 align="left">Connect with Me</h2>
 
 <p align='left'><a href="https://github.com/srush98"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/></a><a href="https://www.linkedin.com/in/srushti-jiyani/"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a></p>
