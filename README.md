@@ -46,8 +46,6 @@ My educational background and continuous learning in cutting-edge technologies h
 
 <img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srush98&" />
 
-<img align="left" src="https://komarev.com/ghpvc/?username=srush98&label=Profile%20views&color=0e75b6&style=flat" />
-
 <h2 align="left">Connect with Me</h2>
 
-<p align='left'><a href="https://github.com/srush98"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/></a><a href="https://www.linkedin.com/in/srushti-jiyani/"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a><a href="https://x.com/srushti_jiyani"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/twitter.svg" width="40" height='40' title="twitter"/></a></p>
+<p align='left'><a href="https://github.com/srush98"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/></a><a href="https://www.linkedin.com/in/srushti-jiyani/"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a></p>
