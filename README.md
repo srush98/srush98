@@ -42,7 +42,7 @@ My educational background and continuous learning in cutting-edge technologies h
 
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='git'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='linux'/></p>
 
-<br><hr><br>
+<br>
 
 <h2 align="left">Connect with Me</h2>
 
