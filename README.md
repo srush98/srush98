@@ -1,6 +1,6 @@
-<h1 align="center">Hello World! 👋 I'm Srushti Jiyani</h1>
+<h1 align="center">Hello World!👋 I'm Srushti Jiyani</h1>
 
-<h5 align="center">As an aspiring IT Professional with a Bachelor's degree in IT Engineering, I've further enriched my knowledge through Postgraduate studies in Computer Applications Development and Cloud Computing. My passion lies in coding, problem-solving, and the endless possibilities technology offers. I'm eager to apply my skills in designing and implementing efficient software solutions and cloud architectures. I'm always open to new challenges and collaborations in the tech space.
+<h5 align="center">As an aspiring Software developer with a Bachelor's degree in IT Engineering, I've further enriched my knowledge through Postgraduate studies in Computer Applications Development and Cloud Computing. My passion lies in coding, problem-solving, and the endless possibilities technology offers. I'm eager to apply my skills in designing and implementing efficient software solutions and cloud architectures. I'm always open to new challenges and collaborations in the tech space.
 
 My educational background and continuous learning in cutting-edge technologies have prepared me well for a career in IT. I'm excited to contribute my skills and enthusiasm to innovative projects and teams in the tech industry.</h5><br>
 
