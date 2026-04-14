@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋 I'm Srushti Jiyani</h1>
 
 <p align="center">
-Software Developer | Cloud Computing Enthusiast
+Software Developer | Cloud Enthusiast
 </p>
 
 ---
